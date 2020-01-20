@@ -12,4 +12,4 @@ There are some chapters of this book has been presented.
 * [Chapter 5、Analyzing Microarray Data(3)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter5_Microarray_Data_analysis_PART(3).ipynb)
 * [Chapter 6、Analyzing GWAS data(1)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter_6_Analyzing_GWAS_Data_PART(1).ipynb)
 * [Chapter 8、Analysing NGS Data(1)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter_8_Analyzing_NGS_Data_PART(1).ipynb)
-* [Chapter 8、Analysing NGS Data(2)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter_8_Analyzing_NGS_Data_PART(1).ipynb)
+* [Chapter 8、Analysing NGS Data(2)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter_8_Analyzing_NGS_Data_PART(2).ipynb)
