@@ -2,6 +2,8 @@
 
 Learn some basic applications of bioinformatics in R.
 There are some chapters of this book has been presented.
+
+All data in use could be found in data folder.
 * [Chapter 1、 bioinfromatics start with R(1)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter1_start_with_R_part(1).ipynb)
 * [Chapter 1、 bioinfromatics start with R(2)](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter1_start_with_R_part(1).ipynb)
 * [Chapter 2、bioconductor in R](https://github.com/Chengshu21/Bioinformatics_with_R_Cookbook/blob/master/Chapter2_bioconductor_in_R.ipynb)
